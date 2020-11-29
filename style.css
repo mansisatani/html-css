@@ -1,0 +1,45 @@
+body{
+    background-image: url("https://shannonknowsaustin.files.wordpress.com/2012/12/background-fade_from_black_to_white.gif");
+    margin:0;
+    text-align: center;
+}
+
+img{
+    margin-top: 50px;
+    height: 100px;
+    width: 100px;
+}
+
+h1{
+    font-family: 'Niconne', cursive;
+    font-size: 3.5rem;
+    width: 10%;
+    margin:0 auto 0 auto;
+    color: blue;
+}
+
+h2{
+    font-family: 'Sacramento', cursive;
+    font-size: 2rem;
+}
+
+h3{
+    font-family: 'Source Serif Pro', serif;
+}
+.top-container{
+    
+    
+    
+    height: 500px;
+    
+
+}
+
+
+.middle-container{
+    
+}
+.bottom-container{
+
+}
+
